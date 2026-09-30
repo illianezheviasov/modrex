@@ -127,10 +127,10 @@ back to English in the app.
 | Language | Translation | Contributors |
 | --- | --- | --- |
 | [English (en)](apps/desktop/src/renderer/src/i18n/en.json) | <img src="assets/i18n/status/en.svg" alt="English source: 484 valid strings."> Complete | - |
-| [Deutsch (de)](apps/desktop/src/renderer/src/i18n/de.json) | <img src="assets/i18n/status/de.svg" alt="Deutsch (de): 474 accepted, 0 review, 10 missing; 97.9%."> 97.9% | [TarekLP](https://github.com/TarekLP) |
-| [Italiano (it)](apps/desktop/src/renderer/src/i18n/it.json) | <img src="assets/i18n/status/it.svg" alt="Italiano (it): 416 accepted, 0 review, 68 missing; 86%."> 86% | [Enderbox89](https://github.com/Enderbox89) |
+| [Deutsch (de)](apps/desktop/src/renderer/src/i18n/de.json) | <img src="assets/i18n/status/de.svg" alt="Deutsch (de): 474 accepted, 0 review, 10 missing; 97.9%."> 97.9% | [ShulhaOleh](https://github.com/ShulhaOleh), [TarekLP](https://github.com/TarekLP) |
+| [Italiano (it)](apps/desktop/src/renderer/src/i18n/it.json) | <img src="assets/i18n/status/it.svg" alt="Italiano (it): 416 accepted, 0 review, 68 missing; 86%."> 86% | [Enderbox89](https://github.com/Enderbox89), [ShulhaOleh](https://github.com/ShulhaOleh) |
 | [Русский (ru)](apps/desktop/src/renderer/src/i18n/ru.json) | <img src="assets/i18n/status/ru.svg" alt="Русский (ru): 468 accepted, 0 review, 16 missing; 96.7%."> 96.7% | [ShulhaOleh](https://github.com/ShulhaOleh) |
-| [Українська (uk)](apps/desktop/src/renderer/src/i18n/uk.json) | <img src="assets/i18n/status/uk.svg" alt="Українська (uk): 468 accepted, 0 review, 16 missing; 96.7%."> 96.7% | [ShevRuslan1](https://github.com/ShevRuslan1), [illianezheviasov](https://github.com/illianezheviasov) |
+| [Українська (uk)](apps/desktop/src/renderer/src/i18n/uk.json) | <img src="assets/i18n/status/uk.svg" alt="Українська (uk): 468 accepted, 0 review, 16 missing; 96.7%."> 96.7% | [ShevRuslan1](https://github.com/ShevRuslan1), [ShulhaOleh](https://github.com/ShulhaOleh) |
 | [中文（中国） (zh-CN)](apps/desktop/src/renderer/src/i18n/zh-CN.json) | <img src="assets/i18n/status/zh-CN.svg" alt="中文（中国） (zh-CN): 468 accepted, 0 review, 16 missing; 96.7%."> 96.7% | [illianezheviasov](https://github.com/illianezheviasov) |
 
 <div class="i18n-status-legend"><img src="assets/i18n/status/legend/accepted.svg" alt=""> Accepted <img src="assets/i18n/status/legend/review.svg" alt=""> Review <img src="assets/i18n/status/legend/missing.svg" alt=""> Missing</div>
