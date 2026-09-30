@@ -179,14 +179,14 @@
             "staleDuplicateHint": "这是该文件重新打包下载前遗留的旧文件（可安全移除）。"
         },
         "updatesModal": {
+            "versionChange": "从 {from} 到 {to}",
+            "versionAvailable": "可用版本：{version}",
             "title": "可用更新（{count}）",
             "update": "更新",
             "updating": "正在更新...",
             "updatingProgress": "正在更新 {done} / {total}",
             "updateSelected": "更新所选项（{count}）",
             "error": "更新失败。请检查网络连接后重试。",
-            "versionChange": "从 {from} 到 {to}",
-            "versionAvailable": "可用版本：{version}",
             "chooseTitle": "选择文件",
             "chooseBody": "{name} 包含多个文件。请选择要安装的文件。",
             "unavailable": "无法通过 Modrex 更新 {name}。"
@@ -247,6 +247,7 @@
             "noUpdates": "所有内容均为最新。",
             "noMissingDeps": "所有已安装模组的依赖项均已满足。",
             "missingFileHint": "磁盘中缺少文件",
+            "containerMissingHint": "磁盘中缺少 .ucas 和 .utoc 文件",
             "brokenArchiveHint": "无法验证压缩包",
             "outdatedHint": "建议重新安装",
             "unidentifiedRowHint": "未识别",
@@ -255,7 +256,6 @@
             "installAllDeps": "安装所有依赖项",
             "installDepFailed": "部分依赖项无法自动安装。",
             "reinstallAll": "全部重新安装",
-            "containerMissingHint": "磁盘中缺少 .ucas 和 .utoc 文件",
             "leftoversCount": "遗留文件（{count}）",
             "noLeftovers": "没有遗留文件。",
             "leftoversLoadFailed": "无法列出遗留文件：{error}",
