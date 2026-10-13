@@ -83,7 +83,7 @@
             "configTarget": "Розташування Engine.ini",
             "configUnavailable": "Щоб перевірити й застосувати ці пресети, Modrex потрібен файл Engine.ini, який наразі використовує гра. Виберіть його нижче.",
             "singleVariant": "Виберіть один пресет. Modrex застосує його підтримувані налаштування та збереже решту ваших налаштувань.",
-            "readOnlyHelp": "! If Engine.ini is read-only, clear that attribute before changing presets in Modrex. Restore it afterward if the mod author requires it.",
+            "readOnlyHelp": "Якщо для Engine.ini встановлено атрибут «Лише читання», зніміть його перед зміною пресетів у Modrex. Після цього відновіть атрибут, якщо цього вимагає автор моду.",
             "apply": "Встановити вибране",
             "next": {
                 "chooseFiles": "Виберіть заміну відео або пресет INI для встановлення.",
@@ -142,9 +142,9 @@
         }
     },
     "app": {
-        "sourcesLoading": "! Loading mod sources...",
-        "sourcesLoadFailed": "! Mod sources could not be loaded.",
-        "sourcesRetry": "! Try again",
+        "sourcesLoading": "Завантаження джерел модів...",
+        "sourcesLoadFailed": "Не вдалося завантажити джерела модів.",
+        "sourcesRetry": "Спробувати ще раз",
         "modsHidden": "Моди приховано — гру було запущено без модів, і вона досі може працювати.",
         "stateUnreadable": "Modrex не зміг прочитати власний список модів для цієї гри, тому наведені нижче моди знайдено шляхом сканування папки, а зміни не зберігаються. Докладніше — у журналі.",
         "restoreMods": "Відновити моди",
@@ -474,7 +474,7 @@
         "installSelected": "Встановити вибрані ({count})"
     },
     "zipPicker": {
-        "sharedHelp": "! Choose only the packages required by the author's instructions. Some archives contain alternative profiles that must not be installed together.",
+        "sharedHelp": "Вибирайте лише пакети, потрібні згідно з інструкціями автора. Деякі архіви містять альтернативні профілі, які не можна встановлювати разом.",
         "title": "Установлення з архіву",
         "subtitle": "{modName} — виберіть файли для встановлення.",
         "installSelected": "Встановити вибрані ({count})",
