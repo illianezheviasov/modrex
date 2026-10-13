@@ -83,7 +83,7 @@
             "configTarget": "Engine.ini 位置",
             "configUnavailable": "Modrex 需要游戏当前使用的 Engine.ini 才能检查并应用这些预设。请在下方选择该文件。",
             "singleVariant": "请选择一个预设。Modrex 会应用其中支持的设置，并保留您的其他偏好设置。",
-            "readOnlyHelp": "! If Engine.ini is read-only, clear that attribute before changing presets in Modrex. Restore it afterward if the mod author requires it.",
+            "readOnlyHelp": "如果 Engine.ini 设为只读，请先取消只读属性，再在 Modrex 中更改预设。如果模组作者要求保持只读，请在更改完成后恢复该属性。",
             "apply": "安装所选内容",
             "next": {
                 "chooseFiles": "请选择要安装的视频替换或 INI 预设。",
@@ -142,9 +142,9 @@
         }
     },
     "app": {
-        "sourcesLoading": "! Loading mod sources...",
-        "sourcesLoadFailed": "! Mod sources could not be loaded.",
-        "sourcesRetry": "! Try again",
+        "sourcesLoading": "正在加载模组来源...",
+        "sourcesLoadFailed": "无法加载模组来源。",
+        "sourcesRetry": "重试",
         "modsHidden": "模组已隐藏；游戏以原版模式启动，并且可能仍在运行。",
         "stateUnreadable": "Modrex 无法读取此游戏由自身维护的模组列表，因此以下模组是通过扫描文件夹找到的，任何更改都不会被保存。详细信息请查看日志。",
         "restoreMods": "恢复模组",
@@ -474,7 +474,7 @@
         "installSelected": "安装所选项（{count}）"
     },
     "zipPicker": {
-        "sharedHelp": "! Choose only the packages required by the author's instructions. Some archives contain alternative profiles that must not be installed together.",
+        "sharedHelp": "请仅选择作者说明中要求的包。某些压缩包包含不同的配置方案，这些方案不能同时安装。",
         "title": "从压缩包安装",
         "subtitle": "{modName}：选择要安装的文件。",
         "installSelected": "安装所选项（{count}）",
